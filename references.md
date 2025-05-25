@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+Hello everyone this is my first merge conflict.
+=======
+
+
